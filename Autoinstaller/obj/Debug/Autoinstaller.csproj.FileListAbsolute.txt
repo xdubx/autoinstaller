@@ -1,0 +1,22 @@
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\bin\Debug\Autoinstaller.exe.config
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.csprojResolveAssemblyReference.cache
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Form1.resources
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Properties.Resources.resources
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.csproj.GenerateResource.Cache
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\bin\Debug\Autoinstaller.exe
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\bin\Debug\Autoinstaller.pdb
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.exe
+c:\users\klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.pdb
+C:\Users\Klaus\Documents\Visual Studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Install.resources
+C:\Users\Klaus\documents\visual studio 2015\Projects\Autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Changelog.resources
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\bin\Debug\Autoinstaller.exe.config
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.exe
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.pdb
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\bin\Debug\Autoinstaller.exe
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\bin\Debug\Autoinstaller.pdb
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.csprojResolveAssemblyReference.cache
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Changelog.resources
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Form1.resources
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Install.resources
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.Properties.Resources.resources
+C:\Users\Klaus\Source\Repos\autoinstaller\Autoinstaller\obj\Debug\Autoinstaller.csproj.GenerateResource.Cache
